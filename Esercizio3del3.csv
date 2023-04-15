@@ -1,0 +1,11 @@
+Anno	ImpiegatoID	Nickname	M01	M02	M03	M04	M05	M06	M07	M08	M09	M10	M11	M12	Commento
+2021	101000	""Il Mago""	169	160	173	167	169	160	160	177	150	155	160	168	"Il dipendete è efficente, quando serve fa ore di straordinario"
+2021	121000	""La Volpe""	160	160	157	177	160	176	159	162	160	160	165	166	"Il dipendente è veloce e pulito nel lavoro, bisogna rinnovare il contratto"
+2021	131000	"""Cavallo"",""Puntina"""	160	160	160	162	165	160	160	168	166	160	160	164	"Il dipendente è in grado di portare a termine il lavoro nel suo orario \n Il dipendente non ha preso ferie"
+2021	141000	"""Lumaca"",""Tartaruga"""	155	158	160	-	160	158	166	168	160	160	154	158	"Il dipendente è lento ma efficente \n Bisogna proporre al dipendente un corso di aggiornamento" 
+2021	151000	""La Tigre""	160	167	166	179	170	177	174	174	173	160	175	175	"Il dipendente è efficente, proponiamo un aumento"
+2021	161000	""Mollica""	160	166	167	160	162	165	160	169	160	155	154	160	Il dipendente è efficente, spesso è in ritardo"
+2021	171000	""Fantasma""	155	154	155	153	150	-	160	160	160	166	-	165	"Il dipendente svolge un lavoro mediocre, va proposto un part-time"
+2021	181000	"""Preciso"",""Gatto"""	160	160	160	167	153	160	155	165	160	160	167	153	"Il dipendente è efficente \n Al dipendente va proposto un aumento"
+2021	191000	""Giraffa""	168	169	169	172	160	162	160	160	168	177	178	160	"Il dipendente è efficente, va proporto un rinnovo di contratto"
+2021	201000	""Gatto""	160	165	167	166	160	168	165	167	160	155	154	152 "Il dipendente è efficete, non ha preso ferie"
